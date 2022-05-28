@@ -1,2 +1,6 @@
 ini fitur 1
+<<<<<<< HEAD
 ini baru aja dibuat
+=======
+ini masih error jadi gak jadi
+>>>>>>> master
